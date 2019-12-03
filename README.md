@@ -1,7 +1,9 @@
 安装代码
 
 wget --no-check-certificate -O ./install.sh https://raw.githubusercontent.com/kiraxw/v2ray/master/install.sh
+
 chmod 700 ./install.sh
+
    ./install.sh
 <div class="post-content">
 <p>支持 V2Ray 绝大多数传输协议，WebSocket + TLS，HTTP/2，Shadowsocks，动态端口，集成 BBR 和锐速优化等。</p>
