@@ -1,6 +1,6 @@
 安装代码
 
-wget --no-check-certificate -O ./install.sh https://raw.githubusercontent.com/kiraxw/v2ray/master/install.sh
+wget --no-check-certificate -O ./install.sh https://raw.githubusercontent.com/kiraxw/dd2dd/master/install.sh
 
 chmod 700 ./install.sh
 
